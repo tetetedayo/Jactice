@@ -1,0 +1,7 @@
+{
+  "name": "jacktice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
